@@ -13,4 +13,5 @@ It use ROC wiht AUC for evaluating the performance of random forest classifier a
 
 # Citation
 Using plotRoc function from Shayne Wierbowski(sdw95@cornell.edu)
-
+Exapsy_AA_scales from https://www.expasy.org/
+Labels were made from https://www.uniprot.org/ by Shayne Wierbowski
