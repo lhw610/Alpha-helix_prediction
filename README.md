@@ -1,6 +1,6 @@
 # Alpha-helix_prediction
 Generates the statistical features(mean and correlation from the surrounding protein) and train random forest and neural network model
-to predict the secondary structure(Alpha helix)
+to predict the secondary structure(Alpha helix) for given uniprot sequence
 
 # Instruction
 # Training
